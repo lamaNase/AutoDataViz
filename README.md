@@ -72,7 +72,7 @@ The map is styled with a dark background to ensure a clean and modern look, maki
 # Class Diagram 📊
 
 
-![AutoData](https://github.com/user-attachments/assets/c7623b9a-2088-4fa0-8545-08e6f3e70892)
+![AutoData](https://github.com/user-attachments/assets/a87ec348-bd95-4f35-953e-173fc003871a)
 
 
 
@@ -96,7 +96,11 @@ You can run the program through executing the following commands:
 
 You can find the dataset used for this project in the below link:
 
-[🔗 Visit my Google Drive data](https://drive.google.com/drive/folders/1ASUm3Ablh10S2kQjuXNCaPvKQFpQwKm_?usp=drive_link)
+
+https://github.com/user-attachments/assets/f70d265f-0ea5-4191-a2b0-7a6e76521443
+
+
+
 
 
 
